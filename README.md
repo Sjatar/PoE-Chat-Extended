@@ -14,3 +14,5 @@ Nicknames list will update when Save button is pressed. Installation directory i
 
 If you want to add additional notify sounds add them to Sounds folder! Sadly AHK does not have elegant volume control. 
 But you can change the volume for AHK globally in windows. Most fine grain option is to use tenacity or other audio editing tools to manually change the volume of sounds. Like I have done with the OG whisper sound and my modified bassy version of the whisper sound.
+
+NOTE: Apparetly some users mainly Korean users do not show up in the log file due to local privacy laws. 
