@@ -1,6 +1,9 @@
 # PoE-Chat-Extended
 Auto Hot Key script to read and notify user with custom sounds about whispers/trade whispers/global chat/mentions in global chat and party chat!
 
+You need to have AHK V1 installed to run this script! It can be installed from https://www.autohotkey.com/
+V2 will not sadly work as it's not back compatible.
+
 This does not alter the client in any way shape or form. It only interacts with PoE by reading the log file.
 It's recommended to disable chat alerts volume in game options, if custom whisper and/or custom trade whisper are enabled. 
 
