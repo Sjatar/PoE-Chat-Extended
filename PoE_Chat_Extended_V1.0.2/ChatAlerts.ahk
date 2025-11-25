@@ -115,7 +115,7 @@ Loop, Read, Assets/events.txt
 	GuiControl,, EventNicks, %A_LoopReadLine%
 }
 
-Global RegexStringEvent := "i)INFO Client [0-9]*\] #.*: .*("
+Global RegexStringEvent := "i)INFO Client [0-9]*\] : ("
 
 Loop, Read, Assets/events.txt
 {
@@ -200,7 +200,7 @@ NewLine(line){
 			SoundPlay, %GlobalFile%
 		}
 	}
-	else if RegExMatch(line, RegexStringNicks)
+	else if RegExMatch(line, RegexStringEvent)
 	{
 		if EventEnabled
 		{
