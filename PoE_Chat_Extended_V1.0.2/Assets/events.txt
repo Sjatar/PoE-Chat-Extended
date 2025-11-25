@@ -1,0 +1,6 @@
+Your Menagerie was full so an older Beast
+Your Menagerie only has room for one more Beast of this type.
+A Reflecting Mist has manifested nearby.
+The Nameless Seer has appeared nearby.
+<brequelwarning>{Equipped Grafts cannot gain more Blood as they are full}
+<brequelwarning>{Equipped Grafts are almost full!}
