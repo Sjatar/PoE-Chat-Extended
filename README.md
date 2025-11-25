@@ -7,7 +7,7 @@ V2 will not sadly work as it's not back compatible.
 This does not alter the client in any way shape or form. It only interacts with PoE by reading the log file.
 It's recommended to disable chat alerts volume in game options, if custom whisper and/or custom trade whisper are enabled. 
 
-<img width="366" height="550" alt="notepad++_p7eqTpc41T" src="https://github.com/user-attachments/assets/9f3ec4d5-b581-4478-86b7-780398e1fa63" />
+<img width="342" height="691" alt="AutoHotkey_6Cb11gr9F3" src="https://github.com/user-attachments/assets/4af4c68a-59e4-4549-ad90-cfe328d59c36" />
 
 Make sure to point to the top folder of the installation folder. So Just select Path Of Exile. Do not select logs or any subfolders!
 Nicknames list will update when Save button is pressed. Installation directory is saved and changed on choosing the new folder.
